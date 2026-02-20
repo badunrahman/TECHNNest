@@ -1,0 +1,131 @@
+{
+  "app": {
+    "name": "TeachNest"
+  },
+
+
+  "nav": {
+
+    "home": "Accueil",
+    "products": "Produits",
+    "cart": "Panier",
+    "login": "Connexion",
+    "register": "Inscription",
+    "logout": "Déconnexion",
+    "dashboard": "Tableau de bord",
+    "my_orders": "Mes Commandes",
+    "admin_dashboard": "Admin",
+    "categories": "Catégories",
+    "orders": "Commandes",
+    "reports": "Rapports",
+    "customers": "Clients",
+    "integrations": "Intégrations",
+    "saved_reports": "Rapports enregistrés",
+    "settings": "Paramètres",
+    "sign_out": "Se déconnecter",
+    "language": "Langue"
+  },
+
+
+  "home": {
+
+    "title": "Accueil",
+    "welcome": "Bienvenue sur TeachNest",
+    "description": "Votre guichet unique pour les ressources éducatives.",
+    "featured": "Produits en Vedette",
+    "view_products": "Voir tous les produits"
+  },
+
+  "products": {
+
+    "title": "Produits",
+    "search_placeholder": "Rechercher des produits...",
+    "category_label": "Catégorie",
+    "all_categories": "Toutes les catégories",
+    "add_to_cart": "Ajouter au panier",
+    "view_details": "Voir détails",
+    "price": "Prix",
+    "no_products": "Aucun produit trouvé.",
+    "no_image": "Pas d'image"
+  },
+
+
+  "cart": {
+
+
+    "title": "Panier",
+    "product": "Produit",
+    "price": "Prix",
+    "quantity": "Quantité",
+    "total": "Total",
+    "action": "Action",
+    "empty": "Votre panier est vide.",
+    "checkout": "Passer à la caisse",
+    "remove": "Supprimer",
+    "continue_shopping": "Continuer vos achats",
+    "subtotal": "Sous-total",
+    "update": "Mettre à jour"
+  },
+
+
+  "auth": {
+
+
+    "login_title": "Connexion",
+    "register_title": "Inscription",
+    "email": "Adresse e-mail",
+    "password": "Mot de passe",
+    "confirm_password": "Confirmer le mot de passe",
+    "full_name": "Nom complet",
+    "first_name": "Prénom",
+    "last_name": "Nom",
+    "login_btn": "Se connecter",
+    "register_btn": "S'inscrire",
+    "dont_have_account": "Pas encore de compte ?",
+    "already_have_account": "Vous avez déjà un compte ?"
+  },
+
+
+  "admin": {
+
+    "dashboard": "Tableau de bord",
+    "welcome": "Bienvenue dans le panneau d'administration",
+    "export_products_pdf": "Exporter les produits PDF",
+    "products_report": {
+      "title": "Rapport des produits",
+      "id": "ID",
+      "name": "Nom",
+      "category": "Catégorie",
+      "price": "Prix",
+      "stock": "Stock"
+    }
+  },
+
+
+  "common": {
+
+
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "view": "Voir",
+    "edit": "Modifier",
+    "actions": "Actions",
+    "created_at": "Créé le",
+    "updated_at": "Mis à jour le",
+    "status": "Statut",
+    "id": "ID",
+    "name": "Nom",
+    "description": "Description"
+  },
+
+
+  "errors": {
+    
+    "404": {
+      "title": "404 - Page non trouvée",
+      "message": "Oups ! La page que vous recherchez n'existe pas.",
+      "back_home": "Retour à l'accueil"
+    }
+  }
+}
